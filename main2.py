@@ -1,0 +1,7 @@
+print("ai: what is your name??!")
+input1 = input("your answer ")
+print("hi "+input1)
+print("AI: where do you live???")
+input2 = input("your answer: ")
+print("NAME: "+input1)
+print("He Lives IN "+input2)
